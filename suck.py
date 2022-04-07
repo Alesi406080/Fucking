@@ -249,7 +249,7 @@ def menu():
     print('%s╠══[%s5%s] %sTaking Number of Friends %s'%(O,P,O,P,pro))
     print('%s╠══[%s6%s] %sCheck Crack Results'%(O,P,O,P))
     print('%s╠══[%s7%s] %sCheck Crack Result Options %s'%(O,P,O,P,pro))    
-    print('%s╠══[%s8%s] %sUser Agent'%(O,P,O
+    print('%s╠══[%s8%s] %sUser Agent'%(O,P,O,P))
     print('%s╠══[%s9%s] %s%s'%(O,P,O,P,upgrade))
     print('%s╠══[%s0%s] %sLog Out'%(O,P,O,P)),P))
     pm = input('%s╠══[%s•%s] %sChoose : '%(O,P,O,P))
